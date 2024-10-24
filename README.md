@@ -1,6 +1,6 @@
 ![logo](https://github.com/MohammadRasool521/MohammadRasool521/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammad Rasool Syed</h1>
-<h3 align="center">A passionate Data Analyst Aspirent from India</h3>
+<h3 align="center">A passionate Data Analyst Aspirant from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrasool521&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrasool521" /> </p>
 
