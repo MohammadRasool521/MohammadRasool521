@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **syedmohammadrasool521@gmail.com**
 
-- 📄 Know about my experiences ["C:\Mohammad Rasool_Syed- Resume.docx"]("C:\Mohammad Rasool_Syed- Resume.docx")
+- 📄 Know about my experiences [My Resume]("C:\Mohammad Rasool_Syed- Resume.docx")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
