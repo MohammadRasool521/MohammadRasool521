@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, Power BI**
 
-- 💬 Ask me about **MS Office, Numpy, Pandas**
+- 💬 Ask me about **Micro Soft Office, Numpy, Pandas**
 
 - 📫 How to reach me **syedmohammadrasool521@gmail.com**
 
