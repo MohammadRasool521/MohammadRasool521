@@ -49,8 +49,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrasool521&" alt="mohammadrasool521" /></p>
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🌱 Education
 **Bachelor of Engineering in Information Technology**  
 VARAPRASAD REDDY INSTITUTE OF TECHNOLOGY(VRIT), 2024  
