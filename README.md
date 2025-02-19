@@ -19,7 +19,7 @@
 # Achievements:
 
 <p dir="left">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128866816">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/128866816">
 <img align="left" alt="Resume Writing" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128866816" style="max-width: 100%;">
 </a>
 </p>
