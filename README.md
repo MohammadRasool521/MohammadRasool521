@@ -17,20 +17,57 @@
 🎓📘 B.Tech graduate from Varaprasad Reddy Institute of Technology(VRIT), with a specialization in Computer Science and Engineering.<br>💻📊 Data analyst with expertise in SQL, Excel, Python, Tableau, and Power BI.<br>📈📋 Focused on creating impactful dashboards and analyzing business data to derive actionable insights.<br>🌐📖 Pursuing online courses and virtual internships to sharpen data analytics skills.<br>📊📅 Completed projects in sales data analysis, Twitter Sentiment Analysis, and performance dashboards.<br>🧠📚 Continuously learning advanced analytics techniques and tools to stay updated in the field.<br>🎯💼 Networking actively with professionals to expand opportunities in data analytics roles.<br>🌟🏫 Attends Python and SQL classes to strengthen technical knowledge and problem-solving skills.<br>📄💻 Building a portfolio website to showcase data projects and professional expertise.<br>🏆🚀 Dedicated to leveraging analytical skills for impactful contributions in e-commerce, retail, and finance domains.
 
 # Achievements:
+<p dir="left">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/128757313">
+ <img align="left" alt="Finding Your Path in Data" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128757313" style="max-width:100%;">
+ </a>
+</p>
 
 <p dir="left">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/128866816">
 <img align="left" alt="Optimizing Your Resume" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128866816" style="max-width: 100%;">
 </a>
 </p>
+
 <p dir="left">
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/130092212">
  <img align="left" alt="Building your Personal Brand" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/130092212" style="max-width:100%;">
  </a>
 </p>
+
 <p dir="left">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/58776067/216237056-dba2446a-1f80-4d1d-817e-4fb3efec8498.png">
-<img align="auto" alt="IBM-data-analysis-w-python-certificate" width="90px" src="https://user-images.githubusercontent.com/58776067/216237056-dba2446a-1f80-4d1d-817e-4fb3efec8498.png" style="max-width: 100%;">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/130153819">
+ <img align="left" alt="Building a World-Class Portfolio" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/130153819" style="max-width:100%;">
+ </a>
+</p>
+
+<p dir="left">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/130220412">
+ <img align="left" alt="Networking & Applying for Jobs" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/130220412" style="max-width:100%;">
+ </a>
+</p>
+
+<p dir="left">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/130633259">
+ <img align="left" alt="Acing the Analyst Interview" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/130633259" style="max-width:100%;">
+ </a>
+</p>
+
+<p dir="left">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/128203807">
+ <img align="left" alt="Data Literacy Foundations" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128203807" style="max-width:100%;">
+ </a>
+</p>
+
+<p dir="left">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/126624393">
+ <img align="left" alt="ChatGPT for Data Analytics" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/126624393" style="max-width:100%;">
+ </a>
+</p>
+
+<p dir="left">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/130633487">
+<img align="auto" alt="Data Career Roadmap" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/130633487" style="max-width: 100%;">
 </a>
 </p>
 
