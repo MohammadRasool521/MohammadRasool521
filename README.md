@@ -71,6 +71,11 @@
 </a>
 </p>
 
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.credly.com/badges/77a92f9a-ad29-4d7d-8e60-2b93ac0538f2/public_url">
+<img align="auto" alt="Data Career Roadmap" width="90px" src="https://images.credly.com/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" style="max-width: 100%;">
+</a>
+</p>
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-rasool-syed-859863229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
