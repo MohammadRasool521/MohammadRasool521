@@ -16,81 +16,20 @@
 # 💫 About Me:
 🎓📘 B.Tech graduate from Varaprasad Reddy Institute of Technology(VRIT), with a specialization in Computer Science and Engineering.<br>💻📊 Data analyst with expertise in SQL, Excel, Python, Tableau, and Power BI.<br>📈📋 Focused on creating impactful dashboards and analyzing business data to derive actionable insights.<br>🌐📖 Pursuing online courses and virtual internships to sharpen data analytics skills.<br>📊📅 Completed projects in sales data analysis, Twitter Sentiment Analysis, and performance dashboards.<br>🧠📚 Continuously learning advanced analytics techniques and tools to stay updated in the field.<br>🎯💼 Networking actively with professionals to expand opportunities in data analytics roles.<br>🌟🏫 Attends Python and SQL classes to strengthen technical knowledge and problem-solving skills.<br>📄💻 Building a portfolio website to showcase data projects and professional expertise.<br>🏆🚀 Dedicated to leveraging analytical skills for impactful contributions in e-commerce, retail, and finance domains.
 
-div class="markdown-heading" dir="auto"> - $0
+# Achievements:
 
-<h3 class="heading-element" dir="auto">Achievements:</h3>
-
-<a id="user-content-achievements" class="anchor" aria-label="Permalink: Achievements:" href="#achievements"> </a> flex
-
-</div>
-
-<p dir="auto">
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/58776067/170819768-0f025782-d86c-4bd2-b539-016bd8e10add.png">
-
-<img align="left" alt="google-data-analytics-certificate" width="120px" src="https://user-images.githubusercontent.com/58776067/170819768-0f025782-d86c-4bd2-b539-016bd8e10add.png" style=
-
-"max-width: 100%;">
-
+<p dir="left">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128866816">
+<img align="left" alt="Resume Writing" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128866816" style="max-width: 100%;">
 </a>
-
 </p>
 
-<p dir="auto">
-
-▼<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/58776067/216236692-df7d6cab-64c0-4ee0-9dfa-537c65791819.ong">
-
-<img align="left" alt="IBM-applied-data-science-certificate" width="90px" src="https://user-images.githubusercontent.com/58776067/216236692-df7d6cab-64c0-4ee0-9dfa-537c65791819.png" style="max-width: 100%;">
-
+<p dir="left">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/58776067/216237056-dba2446a-1f80-4d1d-817e-4fb3efec8498.png">
+<img align="auto" alt="IBM-data-analysis-w-python-certificate" width="90px" src="https://user-images.githubusercontent.com/58776067/216237056-dba2446a-1f80-4d1d-817e-4fb3efec8498.png" style="max-width: 100%;">
 </a>
-
 </p>
 
-▼<p dir="auto">
-
-▼<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/58776067/216237056-dba2446a-1f80-4d1d-817e-4fb3efec8498.png">
-
-<img align="left" alt="IBM-data-analysis-w-python-certificate" width="90px" src="https://user-images.githubusercontent.com/58776067/216237056-dba2446a-1f80-4d1d-817e-4fb3efec8498.png" style="max-width: 100%;">
-
-</a>
-
-</p>
-
-▼<p dir="auto">
-
-▼<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/58776067/216237264-9904-593-7863-49a9-965-30cc8a54beb8.png">
-
-<img align="left" alt="IBM-data-visual-w-python-certificate" width="90px" src="https://user-images.githubusercontent.com/58776067/216237264-9904-593-7863-49a9-965-30cc8a54beb8.png" style="max-width: 100%;">
-
-</a>
-
-</p>
-
-▼<p dir="auto">
-
-▼<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/58776067/216237908-9108103b-c2eb-436c-bc3f-a75ebab56874.png">
-
-<img align="left" alt="IBM-machine-learning--w-python-certificate" width="90px" src="https://user-images.githubusercontent.com/58776067/216237908-9108103b-c2eb-436c-bc3f-a75ebab56874.pn g" style="max-width: 100%;">
-
-</a>
-
-</p>
-
-▼<p dir="auto">
-
-▼<a target="blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/58776067/216238233-97b1aa15-70eb-4c19-9dd2-dadb7d0a3e65.png">
-
-<img align="left" alt="applied-data-science-capstone" width="90px" src="https://user-images.githubusercontent.com/58776067/216238233-97b1aa15-70eb-4c19-9dd2-dadb7d0a3e65.png" style="max-width: 100%;">
-
-</a>
-
-</p>
-
-▼<p dir="auto">
-
-▼<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/58776067/216238591-93624740-2bb6-49b6-ae30-7c9f7996b822.png">
-
-<img align="left" alt="DB_and_SQL_for_Data_Sci" width="90px" src="https://user-images.githubusercontent.com/58776067/216238591-93624748-2bb6-49b6-ae30-7c9f7996b822.png" style="max-width:
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-rasool-syed-859863229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
