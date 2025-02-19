@@ -73,9 +73,46 @@
 
 <p dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.credly.com/badges/77a92f9a-ad29-4d7d-8e60-2b93ac0538f2/public_url">
-<img align="auto" alt="Data Career Roadmap" width="90px" src="https://images.credly.com/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" style="max-width: 100%;">
+<img align="left" alt="Data Visualization Using Python" width="90px" src="https://images.credly.com/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" style="max-width: 100%;">
 </a>
 </p>
+
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.credly.com/badges/a2d45975-1b1e-4e13-b543-91a2320296f4/public_url">
+<img align="left" alt="Data Analysis Using Python" width="90px" src="https://images.credly.com/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" style="max-width: 100%;">
+</a>
+</p>
+
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.credly.com/badges/f59a660a-b886-4a98-9257-b6d2ed492af7/public_url">
+<img align="left" alt="Machine Learning with Python - Level 1" width="90px" src="https://images.credly.com/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" style="max-width: 100%;">
+</a>
+</p>
+
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.credly.com/badges/a478a415-9663-4658-a900-bfc95d88e30f/public_url">
+<img align="left" alt="AWS Academy Graduate - AWS Academy Cloud Foundations" width="90px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-o2ZS4mdJiG4GsECd2L5f-5SjqjQ-NNvCA&s" style="max-width: 100%;">
+</a>
+</p>
+
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.credly.com/badges/925ef624-4977-4aac-969e-b3aa121acd72/public_url">
+<img align="left" alt="AWS Academy Graduate - AWS Academy Cloud Architecting" width="90px" src="https://images.credly.com/images/1737e351-af72-40a7-99e3-5e930633772f/image.png" style="max-width: 100%;">
+</a>
+</p>
+
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.credly.com/badges/42fb1c71-2fdf-415d-a890-2fd701cff702/public_url">
+<img align="left" alt="Creating Compelling Reports" width="90px" src="https://images.credly.com/images/37b16109-9083-4b08-8eec-b9d8f4bb88a8/image.png" style="max-width: 100%;">
+</a>
+</p>
+
+<p dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.credly.com/badges/9694adcb-a2ea-4feb-9c15-584060e8f6be/public_url">
+<img align="auto" alt="Data Analytics Essentials" width="90px" src="https://images.credly.com/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/twitter_thumb_201604_image.png" style="max-width: 100%;">
+</a>
+</p>
+
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-rasool-syed-859863229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
