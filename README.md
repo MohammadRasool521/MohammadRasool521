@@ -20,10 +20,14 @@
 
 <p dir="left">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/128866816">
-<img align="left" alt="Resume Writing" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128866816" style="max-width: 100%;">
+<img align="left" alt="Optimizing Your Resume" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/128866816" style="max-width: 100%;">
 </a>
 </p>
-
+<p dir="left">
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/130092212">
+ <img align="left" alt="Building your Personal Brand" width="90px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/130092212" style="max-width:100%;">
+ </a>
+</p>
 <p dir="left">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/58776067/216237056-dba2446a-1f80-4d1d-817e-4fb3efec8498.png">
 <img align="auto" alt="IBM-data-analysis-w-python-certificate" width="90px" src="https://user-images.githubusercontent.com/58776067/216237056-dba2446a-1f80-4d1d-817e-4fb3efec8498.png" style="max-width: 100%;">
